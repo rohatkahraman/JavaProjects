@@ -1,6 +1,6 @@
 package Day1GitHub;
 
-public class FirstGitHub {
+public class FirstGitHubClass {
     public static void main(String[] args) {
         System.out.println("quzulkurt");
     }
